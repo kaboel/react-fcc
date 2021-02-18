@@ -36,5 +36,6 @@
   "editor.formatOnPaste": true,
   "files.associations": {
     "*.js": "javascriptreact"
-  }
+  },
+  "git.ignoreLimitWarning": true
 }
